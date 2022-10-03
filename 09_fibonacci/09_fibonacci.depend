@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664834767 source:d:\codeblocks\zadania\00_nauka_od_zera\09_fibonacci\main.cpp
+	<iostream>
+	<iomanip>
+
